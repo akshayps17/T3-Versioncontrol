@@ -1,1 +1,14 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+
+# IDE
+.vscode/
+.idea/
 node_modules/
